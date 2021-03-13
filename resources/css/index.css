@@ -12,3 +12,35 @@
     margin-top: 30px;
     vertical-align: middle;
 }
+
+#title {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.description {
+    font-family: Helvetica;
+}
+
+#prices {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+}
+
+
+.frames {
+    background-color: lightcoral;
+}
+
+
+.paint {
+    background-color: skyblue;
+}
+
