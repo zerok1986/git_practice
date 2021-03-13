@@ -1,0 +1,14 @@
+.banner h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.banner {
+    background-image: url('../images/pattern.jpeg');
+    background-size: 5000px;
+    margin-top: 30px;
+    vertical-align: middle;
+}
